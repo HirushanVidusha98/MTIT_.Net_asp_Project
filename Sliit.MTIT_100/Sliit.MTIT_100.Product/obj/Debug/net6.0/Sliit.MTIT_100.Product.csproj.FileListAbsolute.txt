@@ -1,0 +1,174 @@
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\appsettings.Development.json
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\appsettings.json
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Sliit.MTIT_100.Product.exe
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Sliit.MTIT_100.Product.deps.json
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Sliit.MTIT_100.Product.runtimeconfig.json
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Sliit.MTIT_100.Product.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Sliit.MTIT_100.Product.pdb
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.csproj.AssemblyReference.cache
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.AssemblyInfoInputs.cache
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.AssemblyInfo.cs
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.csproj.CoreCompileInputs.cache
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.MvcApplicationPartsAssemblyInfo.cs
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.MvcApplicationPartsAssemblyInfo.cache
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets\msbuild.Sliit.MTIT_100.Product.Microsoft.AspNetCore.StaticWebAssets.props
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets\msbuild.build.Sliit.MTIT_100.Product.props
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sliit.MTIT_100.Product.props
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sliit.MTIT_100.Product.props
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets.pack.json
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets.build.json
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets.development.json
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\scopedcss\bundle\Sliit.MTIT_100.Product.styles.css
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.csproj.CopyComplete
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\refint\Sliit.MTIT_100.Product.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.pdb
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.genruntimeconfig.cache
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\ref\Sliit.MTIT_100.Product.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Azure.Core.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Azure.Identity.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Humanizer.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.CodeDom.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Memory.Data.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Text.Json.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\sliit\4th year\1st sem\2023\MTIT\Assignment\Assignment 3\Assignment-Code\MTIT-Microservices-group100\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\appsettings.json
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Sliit.MTIT_100.Product.exe
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Sliit.MTIT_100.Product.deps.json
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Sliit.MTIT_100.Product.runtimeconfig.json
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Sliit.MTIT_100.Product.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Sliit.MTIT_100.Product.pdb
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.csproj.AssemblyReference.cache
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.AssemblyInfoInputs.cache
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.AssemblyInfo.cs
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.csproj.CoreCompileInputs.cache
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets\msbuild.Sliit.MTIT_100.Product.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets\msbuild.build.Sliit.MTIT_100.Product.props
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sliit.MTIT_100.Product.props
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sliit.MTIT_100.Product.props
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\scopedcss\bundle\Sliit.MTIT_100.Product.styles.css
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.csproj.CopyComplete
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\refint\Sliit.MTIT_100.Product.dll
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.pdb
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\Sliit.MTIT_100.Product.genruntimeconfig.cache
+C:\Users\hirus\Documents\Sliit.MTIT_100\Sliit.MTIT_100.Product\obj\Debug\net6.0\ref\Sliit.MTIT_100.Product.dll

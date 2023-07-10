@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Microservices", "Microservices", "{879DA8BB-8BC8-40B8-9363-1E22EC96F810}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sliit.MTIT_100.Customer", "Sliit.MTIT_100.Customer\Sliit.MTIT_100.Customer.csproj", "{DCD87BDE-4C7C-4D5E-9574-35695341DBFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sliit.MTIT_100.Product", "Sliit.MTIT_100.Product\Sliit.MTIT_100.Product.csproj", "{F9166D0B-90EF-4BD7-80CA-A4BEC4F9369F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sliit.MTIT_100.Seller", "Sliit.MTIT_100.Seller\Sliit.MTIT_100.Seller.csproj", "{6E9CFBDF-1E5B-4C90-AA42-E3A04EF7822C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sliit.MTIT_100.Ocelot", "Sliit.MTIT_100.Ocelot\Sliit.MTIT_100.Ocelot.csproj", "{F256D3D1-B0D7-4C99-B463-6EA4C5DD658A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Gateway", "Gateway", "{F08FD12C-53C6-4FAD-AF1C-3925D4B38E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliit.MTIT_100.Order", "Sliit.MTIT_100.Order\Sliit.MTIT_100.Order.csproj", "{5D62D8C5-5C5E-4CD0-8977-B47ADE962890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD87BDE-4C7C-4D5E-9574-35695341DBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD87BDE-4C7C-4D5E-9574-35695341DBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD87BDE-4C7C-4D5E-9574-35695341DBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD87BDE-4C7C-4D5E-9574-35695341DBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9166D0B-90EF-4BD7-80CA-A4BEC4F9369F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9166D0B-90EF-4BD7-80CA-A4BEC4F9369F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9166D0B-90EF-4BD7-80CA-A4BEC4F9369F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9166D0B-90EF-4BD7-80CA-A4BEC4F9369F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E9CFBDF-1E5B-4C90-AA42-E3A04EF7822C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E9CFBDF-1E5B-4C90-AA42-E3A04EF7822C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E9CFBDF-1E5B-4C90-AA42-E3A04EF7822C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E9CFBDF-1E5B-4C90-AA42-E3A04EF7822C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F256D3D1-B0D7-4C99-B463-6EA4C5DD658A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F256D3D1-B0D7-4C99-B463-6EA4C5DD658A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F256D3D1-B0D7-4C99-B463-6EA4C5DD658A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F256D3D1-B0D7-4C99-B463-6EA4C5DD658A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D62D8C5-5C5E-4CD0-8977-B47ADE962890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D62D8C5-5C5E-4CD0-8977-B47ADE962890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D62D8C5-5C5E-4CD0-8977-B47ADE962890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D62D8C5-5C5E-4CD0-8977-B47ADE962890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DCD87BDE-4C7C-4D5E-9574-35695341DBFC} = {879DA8BB-8BC8-40B8-9363-1E22EC96F810}
+		{F9166D0B-90EF-4BD7-80CA-A4BEC4F9369F} = {879DA8BB-8BC8-40B8-9363-1E22EC96F810}
+		{6E9CFBDF-1E5B-4C90-AA42-E3A04EF7822C} = {879DA8BB-8BC8-40B8-9363-1E22EC96F810}
+		{F256D3D1-B0D7-4C99-B463-6EA4C5DD658A} = {F08FD12C-53C6-4FAD-AF1C-3925D4B38E09}
+		{5D62D8C5-5C5E-4CD0-8977-B47ADE962890} = {879DA8BB-8BC8-40B8-9363-1E22EC96F810}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D3783B1-53F6-4877-8E57-EE5E56C5CB5A}
+	EndGlobalSection
+EndGlobal
